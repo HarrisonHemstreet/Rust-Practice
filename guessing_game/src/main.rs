@@ -32,4 +32,9 @@ fn main() {
             }
         }
     }
+    check_this();
+}
+
+fn check_this() {
+    println!("HAHAHAA");
 }
